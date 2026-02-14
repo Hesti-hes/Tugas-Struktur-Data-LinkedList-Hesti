@@ -33,4 +33,4 @@ Gemini
 
 ## Video Demo Program
 Silakan klik tautan di bawah ini untuk melihat demo jalannya program:
-[Tonton Video Demo di Google Drive]([https://drive.google.com/file/d/12H-8rVUIk1VE0EWbId0Bj2ESIzxQ0kW7/view?usp=sharing])
+[Tonton Video Demo di Google Drive] (https://drive.google.com/file/d/12H-8rVUIk1VE0EWbId0Bj2ESIzxQ0kW7/view?usp=sharing)
