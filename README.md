@@ -17,7 +17,7 @@ Buat program (Java dan Python) menggunakan struktur Singly LinkedList, untuk men
 9.    Exit
 
 ## Prompt AI yang Digunakan
-> Buat program Singly LinkedList manual di Java dan Python tanpa library/import sama sekali untuk menyimpan sejumlah data mahasiswa (nim dan nama). Program memiliki menu sebagai berikut:
+Buat program Singly LinkedList manual di Java dan Python tanpa library/import sama sekali untuk menyimpan sejumlah data mahasiswa (nim dan nama). Program memiliki menu sebagai berikut:
 1.    Insert at beginning (data baru ditempatkan di depan)
 2.    Insert at given position (data baru ditempatkan di posisi sesuai pilihan = 1 sampai count+1)
 3.    Insert at end (data baru ditambahkan di akhir)
@@ -33,4 +33,4 @@ Gemini
 
 ## Video Demo Program
 Silakan klik tautan di bawah ini untuk melihat demo jalannya program:
-[Tonton Video Demo di Google Drive]([ISI_LINK_GOOGLE_DRIVE_KAMU_DI_SINI](https://drive.google.com/file/d/12H-8rVUIk1VE0EWbId0Bj2ESIzxQ0kW7/view?usp=sharing))
+[Tonton Video Demo di Google Drive]([https://drive.google.com/file/d/12H-8rVUIk1VE0EWbId0Bj2ESIzxQ0kW7/view?usp=sharing])
